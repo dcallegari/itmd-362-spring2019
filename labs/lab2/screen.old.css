@@ -257,23 +257,3 @@ label {
   padding-right: 10px;
   float: left;
 }
-
-/* Mobile first queries */
-@media screen 
-and (min-width: 320px)
-and (max-width: 480px) {
-  form {
-    margin: 0 0 5px 0;
-    width: 100%;
-  }
-  
-  label {
-    width: 100%;
-  }
-
-  input[type=email],
-  input[type=text],
-  input[type=date] {
-    width: 95%; 
-  }
-}
