@@ -195,6 +195,10 @@ textarea {
   font: inherit; /* 2 */
 }
 
+/*
+  Pesonal adjustments to page structure
+*/
+
 body {
   margin-left: 5px;
   margin-right: 5px;
@@ -206,6 +210,9 @@ form {
   display: block;
   margin: 0 0 5px 0;
   width: 100%;
+  display: block;
+  text-align: center;
+  vertical-align: center;
 }
 
 form > fieldset {
@@ -221,6 +228,8 @@ fieldset {
   border: 2px solid;
   border-color: #000000;
   background-color: white;
+  display: inline-block;
+  text-align: left;
 }
 
 legend {
@@ -229,6 +238,10 @@ legend {
   border-color: #000000;
   font-weight: bold;
   background-color: white;
+}
+
+strong {
+  font-style: bold;
 }
 
 p {
