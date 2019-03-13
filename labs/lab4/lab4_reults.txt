@@ -1,0 +1,21 @@
+NOTE: I have red-green color blindness which I accounted for- so if colors seem off, that is why.
+
+1. An adjacent color palette for introducing a new console gaming platform
+
+Your Palette URL: http://paletton.com/#uid=3220X0khKqJ4uAFa2v7oAmKv5j6
+Your Rationale: When a user goes to the site, I wanted to use colors that felt warm but bright and exciting. Blue is a more calming color while the yellow and red leaning colors would incite a bit of excitement and desire.
+
+2. A triadic color palette for announcing Chicago Botanical Gardens springtime tours.
+
+Your Palette URL: http://paletton.com/#uid=35r0d0kgmt-drQdffDahTmficee
+Your Rationale: Wanted more greens with some yellow and red to represent the colors of spring resurfacing into the plants. Also went with a brighter palette to better represent spring since similar colors in a darker scheme could represent fall.
+
+3. A triadic color palette for styling the login page for a private messaging app
+
+Your Palette URL: http://paletton.com/#uid=34x0K0ka-mQ8wPO6QyYkojrpMdH
+Your Rationale: I wanted to use dark colors to represent a more professional and secure environment while some medium colors to hint a friendly nature. Blues tend to always be a friendly color and is favored by many people.
+
+4. A monochromatic color palette for advertising a course on Ruby on Rails
+
+Your Palette URL: http://paletton.com/#uid=15x0u0kkVpcQ8o9v1tneEnl33nH
+Your Rationale: I wanted to use a lot of reds in this to allude to their logo and use of red fonts/imagery on their site. I also mixedin some brighter, near white, color to better contrast with the shades of red used.
